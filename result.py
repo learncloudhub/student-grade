@@ -16,5 +16,3 @@ print(f"Average mark on 2 subjects: {average}")
 
 total = sub1 + sub2
 print(f"Total Mark: {total}")
-
-print("Test conflict local")
