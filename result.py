@@ -13,5 +13,3 @@ print(f"Myanmar, {sub1}, {result}")
 print(f"English, {sub2}, {result}")
 
 print(f"Average mark on 2 subjects: {average}")
-
-print("Test Conflict Hub")
