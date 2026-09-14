@@ -12,4 +12,4 @@ else:
 print(f"Myanmar, {sub1}, {result}")
 print(f"English, {sub2}, {result}")
 
-print(f"Average mark: {average}")
+print(f"Average mark on 2 subjects: {average}")
